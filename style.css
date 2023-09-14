@@ -1,0 +1,227 @@
+@import url(https://db.onlinewebfonts.com/c/4a0c1d6164df2c0aa88da1437cd38ef1?family=Calibre+Web);
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+        background-color: #29292c;
+}
+
+.navigate{
+            display: flex;
+            align-items: center;
+            position: fixed;
+            margin-top:-5px;
+            width: 2000px;
+            background-color: #29292c;
+            padding-bottom: 19px;
+            border-bottom: 1px solid black;
+}
+#sitelogo{
+            width: 160px;
+            margin-left: 30px;
+            margin-top: 14px;
+}
+#move{
+    margin-left: 200px;
+}
+#searchbtn{
+        width: 19px;
+        margin-top: 14px;
+        margin-left: 6px;
+        
+}
+
+.navname{
+                margin-left: 150px;
+                margin-top: 10px;
+
+}
+div>span{
+    color: white;
+    font-family: "Calibre Web";
+    font-size: 19px;
+    margin-right: 20px;
+}
+span>a{
+            text-decoration: none;
+            color: white ;
+}
+/* button>a{
+                
+} */
+a>button{
+            width: 140px;
+            height: 45px;
+            margin-top: 10px;
+            margin-left: 50px;
+            color: white;
+            padding: 5px;
+            background-color: rgb(49, 49, 240);
+            border-radius: 3px;
+            border: none;
+            font-size: 17px;
+                color: white;
+                text-decoration: none;
+                font-weight: bold;
+
+}
+
+a:hover{
+            color: rgb(228, 38, 38);
+}
+button:hover{
+                background-color: rgb(5, 29, 102);
+}
+#topic{
+    font-family: "Calibre Web";
+    font-size: 56px;
+    text-align: center;
+    color: white;
+}
+.bodypara{
+    color: #f0f0f8;
+    font-family: "Calibre Web";
+    font-size: 22.4px;
+    text-align: center;
+    margin-top: 20px;
+}
+.headersite{
+                margin-top: 120px;
+                margin-bottom: 53px;
+                word-spacing: 5px;
+}
+p>a{
+    color: #ffe783;
+}
+p>a:hover{
+    color: #f0f0f2;
+}
+.boxfirst{
+        margin-left: 350px;
+        margin-bottom: 100px;   
+}
+#subtopic1{
+            margin-bottom: 20px;
+            font-size: 28.5px;
+            font-family: "Calibre Web";
+}
+#subtopic1>a{
+                text-decoration: none;
+                color: #f0f0f2;
+}
+#subtopic1>a:hover{
+                    color: #ffe783;
+}
+#littlewriting{
+                    color: #f0f0f2;
+                    font-family: "Calibre Web";
+                    font-size: 22px;
+                    margin-bottom: 22px;
+}
+
+.author1>a{
+                text-decoration: none;
+                font-size: 24px;
+                font-family: "Calibre Web";
+}
+.buttonfirst>div{
+                    margin-left: 2000px;
+}
+.authortxt{
+    color: white;
+    font-size: 20px;
+    font-family: "Calibre Web";
+    margin-left: 150px;
+    margin-top: -25px;
+}
+.small>a{
+            color: #ffe783;
+            text-decoration: none;
+            font-family: "Calibre Web";
+            font-weight: bold;
+            margin-right: 10px;
+}
+.small>a:hover{
+    color: #f0f0f2;
+}
+.small{
+        margin-left: 300px;
+        font-size: 14px;
+        margin-top: -18px;
+}
+div{
+        color:#f0f0f2;
+}
+#viewm{
+            margin-top: -50px;
+            margin-left: 550px;
+            margin-bottom: 100px;
+}
+.viewmore>a{
+                color:#ffe783;
+                font-size: 22px;
+                font-family: "Calibre Web";
+                text-decoration: none;               
+}
+.viewmore>a:hover{
+                    color: #f0f0f2;
+}
+.footerdiv{
+                border: 2px solid #f0f0f2;
+                width: 700px;
+                padding: 20px;
+                /* text-align: center ; */
+                margin-left: 350px;
+                margin-bottom: 100px;
+}
+.footerdiv>p{
+                font-family: "Calibre Web";
+                text-align: center;
+                font-size: 22.4px;
+                margin-bottom: 20px;
+}
+.lastdiv>input{
+            background-color: #f0f0f2;
+            width: 470px;
+            height: 46px;
+            padding: 10px;
+            border: none;
+            border-radius: 2px;
+            /* margin-left: -27px; */
+            margin-left: 29px;
+            font-family: "Calibre Web";
+            font-size: 22.4px;
+            
+}
+.lastdiv>div>button{
+    width: 140px;
+    height: 46px;
+    /* margin-left: 480px; */
+    color: white;
+    padding: 10px;
+    background-color: rgb(49, 49, 240);
+    border-radius: 3px;
+    border: none;
+    font-size: 17px;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+}
+.lastdiv>div{
+                    margin-top: -46px;
+                    margin-left: 500px;
+}
+.lastdiv{
+            margin-bottom: 20px;
+}
+.authortxt1{
+            margin-left:70px;
+            
+}
+.authortxt2{
+    margin-left:150px;
+    
+}
